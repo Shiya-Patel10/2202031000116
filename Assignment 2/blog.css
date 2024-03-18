@@ -1,0 +1,680 @@
+.group-child112 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 100px;
+}
+.about7,
+.contact10,
+.home14,
+.shop11 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  font-weight: 500;
+}
+.about7,
+.contact10,
+.shop11 {
+  left: 120px;
+}
+.about7,
+.contact10 {
+  left: 234px;
+}
+.contact10 {
+  left: 355px;
+}
+.group-child113 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro);
+  width: 58px;
+  height: 32px;
+}
+.blog8 {
+  position: absolute;
+  top: 3px;
+  left: 11px;
+  font-weight: 500;
+}
+.home-parent10,
+.rectangle-parent67 {
+  position: absolute;
+  top: 0;
+  left: 482px;
+  width: 58px;
+  height: 32px;
+}
+.home-parent10 {
+  top: 32px;
+  left: 388px;
+  width: 540px;
+}
+.mdiaccount-alert-outline-icon6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.akar-iconsheart6,
+.akar-iconssearch6,
+.ant-designshopping-cart-outli-icon6 {
+  position: absolute;
+  top: 0;
+  left: 70px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.akar-iconsheart6,
+.ant-designshopping-cart-outli-icon6 {
+  left: 140px;
+}
+.ant-designshopping-cart-outli-icon6 {
+  left: 213px;
+}
+.mdiaccount-alert-outline-parent4 {
+  position: absolute;
+  top: 36px;
+  left: 1066px;
+  width: 241px;
+  height: 28px;
+}
+.rectangle-parent66 {
+  top: 0;
+  width: 1440px;
+  height: 100px;
+}
+.blog9,
+.group-child114,
+.rectangle-parent66 {
+  position: absolute;
+  left: 0;
+}
+.group-child114 {
+  top: 0;
+  width: 1440px;
+  height: 316px;
+  object-fit: cover;
+}
+.blog9 {
+  top: 61px;
+  font-weight: 500;
+}
+.meubel-house-logos-05-icon5 {
+  position: absolute;
+  top: 0;
+  left: 15px;
+  width: 77px;
+  height: 77px;
+  object-fit: cover;
+}
+.blog-parent {
+  position: absolute;
+  top: 61px;
+  left: 652px;
+  width: 107px;
+  height: 133px;
+}
+.blog10,
+.home15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.blog10 {
+  left: 77px;
+  font-weight: 300;
+}
+.dashiconsarrow-down-alt27 {
+  position: absolute;
+  top: 2px;
+  left: 51px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.home-parent11 {
+  position: absolute;
+  top: 195px;
+  left: 645px;
+  width: 112px;
+  height: 24px;
+  font-size: var(--font-size-base);
+}
+.group-child115,
+.rectangle-parent68 {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.rectangle-parent68 {
+  top: 100px;
+  height: 316px;
+  font-size: var(--font-size-29xl);
+}
+.group-child115 {
+  top: 0;
+  background-color: var(--color-snow-200);
+  height: 300px;
+}
+.for-all-oders6 {
+  position: absolute;
+  top: 48px;
+  left: 0;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkgray);
+  display: inline-block;
+  width: 376px;
+}
+.days-return-parent4,
+.free-delivery-parent4,
+.secure-payment-parent4 {
+  position: absolute;
+  top: 96px;
+  left: 100px;
+  width: 376px;
+  height: 108px;
+}
+.days-return-parent4,
+.secure-payment-parent4 {
+  left: 512px;
+}
+.secure-payment-parent4 {
+  left: 920px;
+}
+.rectangle-parent69 {
+  position: absolute;
+  top: 3126px;
+  left: 0;
+  width: 1440px;
+  height: 300px;
+  font-size: var(--font-size-13xl);
+}
+.group-child116 {
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 2710px;
+}
+.categories,
+.group-child116,
+.group-child117 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-child117 {
+  background-color: var(--color-white);
+  width: 393px;
+  height: 537px;
+}
+.categories {
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.crafts,
+.design {
+  position: absolute;
+  top: 69px;
+  left: 0;
+}
+.design {
+  top: 134px;
+}
+.handmade,
+.interior,
+.wood {
+  position: absolute;
+  top: 199px;
+  left: 0;
+}
+.interior,
+.wood {
+  top: 264px;
+}
+.wood {
+  top: 329px;
+}
+.div13,
+.div14,
+.div15,
+.div16,
+.div17 {
+  position: absolute;
+  top: 69px;
+  left: 234px;
+}
+.div14,
+.div15,
+.div16,
+.div17 {
+  top: 134px;
+}
+.div15,
+.div16,
+.div17 {
+  top: 199px;
+}
+.div16,
+.div17 {
+  top: 264px;
+}
+.div17 {
+  top: 329px;
+}
+.categories-parent,
+.group-child118 {
+  position: absolute;
+  top: 123px;
+  left: 74px;
+  width: 245px;
+  height: 353px;
+}
+.group-child118 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 311px;
+  height: 58px;
+}
+.akar-iconssearch7 {
+  position: absolute;
+  top: 17px;
+  left: 268px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.rectangle-parent72 {
+  position: absolute;
+  top: 22px;
+  left: 41px;
+  width: 311px;
+  height: 58px;
+}
+.rectangle-parent71 {
+  position: absolute;
+  top: 84px;
+  left: 923px;
+  width: 393px;
+  height: 537px;
+  color: var(--color-darkgray);
+}
+.group-child119,
+.lorem-ipsum-dolor {
+  position: absolute;
+  left: 3px;
+  width: 817px;
+}
+.lorem-ipsum-dolor {
+  top: 613px;
+  font-size: var(--font-size-mini);
+  line-height: 150%;
+  color: var(--color-darkgray);
+  text-align: justify;
+  display: inline-block;
+}
+.group-child119 {
+  top: 0;
+  border-radius: var(--br-3xs);
+  height: 500px;
+  object-fit: cover;
+}
+.admin {
+  position: absolute;
+  top: 0;
+  left: 27px;
+}
+.dashiconsadmin-users {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.admin-parent,
+.wood1 {
+  position: absolute;
+  top: 0;
+}
+.admin-parent {
+  left: 0;
+  width: 80px;
+  height: 24px;
+}
+.wood1 {
+  left: 28px;
+}
+.citag-icon,
+.wood-parent {
+  position: absolute;
+  top: 0;
+  height: 24px;
+}
+.citag-icon {
+  left: 0;
+  width: 24px;
+  overflow: hidden;
+}
+.wood-parent {
+  left: 265px;
+  width: 75px;
+}
+.oct-2022,
+.uiscalender-icon {
+  position: absolute;
+  top: 0;
+  left: 31px;
+}
+.uiscalender-icon {
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.group-parent36,
+.oct-2022-parent {
+  position: absolute;
+  top: 0;
+  left: 112px;
+  width: 121px;
+  height: 24px;
+}
+.group-parent36 {
+  top: 517px;
+  left: 0;
+  width: 340px;
+  color: var(--color-darkgray);
+}
+.group-child120,
+.read-more3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-child120 {
+  top: 36px;
+  left: 6px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 78px;
+  height: 1px;
+}
+.read-more-parent1 {
+  position: absolute;
+  top: 758px;
+  left: 3px;
+  width: 89px;
+  height: 36px;
+  text-align: justify;
+}
+.going-all-in-with-millennial-d-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 820px;
+  height: 794px;
+}
+.exploring-new-ways {
+  position: absolute;
+  top: 556px;
+  left: 3px;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+}
+.group-parent37,
+.handmade-parent {
+  position: absolute;
+  top: 0;
+  left: 265px;
+  width: 119px;
+  height: 24px;
+}
+.group-parent37 {
+  top: 517px;
+  left: 0;
+  width: 384px;
+  color: var(--color-darkgray);
+}
+.exploring-new-ways-of-decorati-parent,
+.handmade-pieces-that-took-time-parent {
+  position: absolute;
+  top: 848px;
+  left: 0;
+  width: 820px;
+  height: 794px;
+}
+.handmade-pieces-that-took-time-parent {
+  top: 1696px;
+}
+.group-child125,
+.group-parent35 {
+  position: absolute;
+  top: 106px;
+  left: 97px;
+  width: 820px;
+  height: 2490px;
+}
+.group-child125 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 393px;
+  height: 650px;
+}
+.recent-posts {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+}
+.aug-2022 {
+  position: absolute;
+  top: 47px;
+  left: 0;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray);
+  display: inline-block;
+  width: 119px;
+}
+.group-child126,
+.group-parent39 {
+  position: absolute;
+  left: 0;
+  height: 80px;
+}
+.group-child126 {
+  top: 0;
+  border-radius: var(--br-3xs);
+  width: 80px;
+  object-fit: cover;
+}
+.group-parent39 {
+  top: 62px;
+  width: 211px;
+}
+.exploring-new-ways1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 149px;
+}
+.exploring-new-ways-of-decorati-group,
+.group-parent40 {
+  position: absolute;
+  top: 8px;
+  left: 92px;
+  width: 149px;
+  height: 65px;
+}
+.group-parent40 {
+  top: 181px;
+  left: 0;
+  width: 241px;
+  height: 80px;
+}
+.handmade-pieces-that1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 160px;
+}
+.group-parent41,
+.handmade-pieces-that-took-time-group {
+  position: absolute;
+  top: 8px;
+  left: 92px;
+  width: 160px;
+  height: 65px;
+}
+.group-parent41 {
+  top: 300px;
+  left: 0;
+  width: 252px;
+  height: 80px;
+}
+.modern-home-in {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 119px;
+}
+.modern-home-in-milan-parent {
+  position: absolute;
+  top: 8px;
+  left: 92px;
+  width: 119px;
+  height: 65px;
+}
+.group-parent42,
+.group-parent43 {
+  position: absolute;
+  top: 419px;
+  left: 0;
+  width: 211px;
+  height: 80px;
+}
+.group-parent43 {
+  top: 538px;
+}
+.recent-posts-parent {
+  position: absolute;
+  top: 16px;
+  left: 73px;
+  width: 252px;
+  height: 618px;
+}
+.rectangle-parent73 {
+  position: absolute;
+  top: 662px;
+  left: 923px;
+  width: 393px;
+  height: 650px;
+  font-size: var(--font-size-sm);
+}
+.group-child131 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-moccasin);
+  width: 60px;
+  height: 60px;
+}
+.div18 {
+  position: absolute;
+  top: 15px;
+  left: 27px;
+}
+.group-child132,
+.rectangle-parent74 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 60px;
+  height: 60px;
+}
+.group-child132 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-oldlace-100);
+}
+.div19 {
+  position: absolute;
+  top: 15px;
+  left: 24px;
+}
+.group-child134,
+.rectangle-parent75,
+.rectangle-parent76 {
+  position: absolute;
+  top: 0;
+  left: 95px;
+  width: 60px;
+  height: 60px;
+}
+.group-child134,
+.rectangle-parent76 {
+  left: 190px;
+}
+.group-child134 {
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-oldlace-100);
+  width: 98px;
+}
+.next1 {
+  position: absolute;
+  top: 15px;
+  left: 28px;
+  font-weight: 300;
+}
+.group-parent44,
+.rectangle-parent77 {
+  position: absolute;
+  top: 0;
+  left: 285px;
+  width: 98px;
+  height: 60px;
+}
+.group-parent44 {
+  top: 2650px;
+  left: 512px;
+  width: 383px;
+  font-size: var(--font-size-xl);
+}
+.rectangle-parent70 {
+  position: absolute;
+  top: 416px;
+  left: 0;
+  width: 1440px;
+  height: 2710px;
+}
+.blog7 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3427px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
